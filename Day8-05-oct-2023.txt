@@ -1,0 +1,6 @@
+Agenda:
+
+1. Assignment review - done
+2. Context - elearningdemo
+3. redux
+4. react-redux

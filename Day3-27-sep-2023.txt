@@ -1,0 +1,50 @@
+Agenda:
+1. Parent-child communication - one way
+fragment - done
+2. Form validation - done
+
+useState()
+useState(value)
+useState(object)
+useState([])
+3. Concepts of breaking down functionality
+into components 
+App.js
+Header
+AddContact
+ContactList
+ContactCard
+5. UseRef Vs UseState vs UseEffect - done
+useState - causes rendering
+https://github.com/dmalvia/React_Tutorial_Contact_Manager_App
+
+git clone <>
+
+cd <project folder>
+npm install
+
+a. Scenario 1 - only one param i,e the function
+useEffect(function()) 
+use effect is called during every rendering
+
+b. Scenario 2 - Two params 
+one param i,e the function
+second is []
+useEffect(function(),[]) 
+use effect is called only once during
+loading of the component
+
+c. Scenario 3 - Two params 
+one param i,e the function
+second is [<statetotrack>]
+useEffect(function(),[<statetotrack>]) 
+use effect is called whenever there
+is change in the statetotrack
+
+6. Props drilldown
+7. useContext
+
+App.js
+
+<Employee/>
+common functionality

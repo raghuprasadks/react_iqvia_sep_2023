@@ -1,0 +1,48 @@
+1. create a react project
+
+npx create-react-app <appname>
+
+npx create-react-app reactbasics
+
+index.html
+<div id="root"></div>
+
+index.js
+
+<App /> 
+
+JSX
+
+npm start
+
+https://react.dev/
+
+
+ "start": “set PORT=8000 && react-scripts start",
+
+
+ES7+React/Redux/React-Navite snippets
+rafce
+
+
+Higher Order functions
+
+pass function as a parameter to another
+function
+
+foreach
+map
+filter
+reduce
+
+to display country with other details which has total medal
+more than 15
+
+<table>
+
+
+props
+
+Employee
+
+props -property

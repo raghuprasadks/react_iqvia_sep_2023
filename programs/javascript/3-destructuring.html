@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>De-structuring</title>
+</head>
+<body>
+    <h1>De-structuring</h1>
+    <script>
+        console.log("Destructuring")
+        const vehicleOne = {
+            brand: 'Ford',
+            model: 'Mustang',
+            type: 'car',
+            year: 2021, 
+            color: 'red'
+        }
+myVehicle(vehicleOne);
+function myVehicle({type, color, brand, model}) {
+  const message = 'My ' + type + ' is a ' + color + ' ' + brand + ' ' + model + '.';
+  console.log(message)
+}
+    </script>   
+</body>
+</html>

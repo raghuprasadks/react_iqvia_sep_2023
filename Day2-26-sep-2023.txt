@@ -1,0 +1,64 @@
+Recap:
+
+react - getting started
+npx create-react-app <appname>
+index.html
+index.js
+App
+
+functional component
+
+App.js
+<Header/>
+props
+js functions - higher order functions
+map
+filter
+arrow function
+de-structuring
+rest operator
+Agenda:
+1. Class component - done
+2. Maintain the state -done
+3. Events - done
+4. Form elements - done
+5. CRUD - done
+debugging
+
+Set Counter 0
+
+Counter - <>
+
+<Increment> <Decrement>
+if counter is less than zero 
+set it back to zero
+
+Function based component
+
+Hooks
+
+useState
+
+
+<React.StrictMode>
+    <App />
+  </React.StrictMode>
+
+
+
+useState - 
+useEffect - 
+1. every time you want code to be executed in side the useeffect when
+there is a rendering
+only one parameter
+useEffect(function)
+
+2. Two parameters
+useEffect(function,[])
+3. Two parameters
+useEffect(function,[<state which we are tracking])
+
+useRef - does not cause re-rendering
+
+
+

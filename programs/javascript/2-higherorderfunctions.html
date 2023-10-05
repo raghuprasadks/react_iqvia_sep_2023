@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Higher Order Functions</h1>
+
+    <script>
+        console.log('foreach -regular function')
+        marks = [20,30,40,50,60]
+        function foreachdemo(value,index){
+            console.log(value+"index - "+index)
+        }
+        marks.forEach(foreachdemo)
+        console.log('foreach -arrow function') 
+
+        marks.forEach((element,index) => {
+            console.log(element + " index "+index)
+        });
+      
+        console.log("map function")
+       updmarksarr = marks.map((mark)=>{
+            return mark+1
+       }) 
+       console.log(updmarksarr)
+       console.log("filter")
+       filteredarr = marks.filter((mark)=>mark>40)
+       console.log(filteredarr)
+    </script>
+</body>
+</html>

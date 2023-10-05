@@ -1,0 +1,33 @@
+Agenda:
+
+robots.txt
+manifest.json
+PUBLIC_URL
+
+
+1. Props drilldown - done
+2. useContext - hook - done
+3. CSS
+in-line
+intenal
+external
+
+
+
+html
+<h1 style="color: red">Hello Style!</h1>
+
+{{}}
+
+https://www.geeksforgeeks.org/how-to-use-bootstrap-with-react/
+
+4. Routing
+
+npx create-react-app routingdemo
+
+
+npm i -D react-router-dom
+
+
+
+

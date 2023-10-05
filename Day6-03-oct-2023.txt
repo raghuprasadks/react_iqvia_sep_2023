@@ -1,0 +1,79 @@
+Recap:
+
+React basics
+1. project
+2. Components
+functional ,class based
+3. map,filter
+4. Form
+5. Form submission,validation
+6. hooks - useState,useRef,useEffect,useContext
+7. props,props drilldown
+8. Routing
+9. css,bootstrap
+
+Agenda
+1. backend api - json-server
+create projects
+create api folder
+
+code .
+npm init
+npm install -g json-server
+db.json
+{
+    "users":[]
+}
+
+json-server --watch db.json
+
+http://localhost:3000/users
+
+http://localhost:3000/users?email=testuser1@gmail.com&password=test@123
+
+signup
+
+npx create-react-app elearningdemo
+
+http://localhost:3001/
+
+Routing 
+
+npm i -D react-router-dom
+
+useNavigate
+
+https://www.npmjs.com/package/react-youtube
+
+https://youtu.be/b9eMGE7QtTk?si=D31GRw3uzuw0I_nm
+
+D31GRw3uzuw0I_nm
+
+https://youtu.be/VTEDh2pNSBQ?si=cK9xWwO0XeLJiIXi
+
+cK9xWwO0XeLJiIXi
+
+2. useReducer - state management
+
+redux
+
+product crud
+
+initialstate=[]
+
+creating - product={} - action
+displaying - 
+editing
+deleting
+
+searching
+
+single place where i know about the state
+
+
+3. memo - performance optimization
+4. useMemo - hook
+
+
+
+

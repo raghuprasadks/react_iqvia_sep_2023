@@ -1,0 +1,24 @@
+Agenda:
+
+1. Assignment - discussed
+2. UseReducer - done
+state management
+
+https://codesandbox.io/s/react-hook-usereducer-fetching-data-with-axios-dzuue?file=/src/components/DataFetchingTwo.js
+
+
+fetch
+
+axios
+
+npm i react-axios
+3. Advanced Routing
+
+npx create-react-app advancedrouting
+
+npm i -D react-router-dom
+
+https://codesandbox.io/s/react-router-v6-fhefl
+https://codesandbox.io/s/react-router-v6-example-ym3hr
+
+

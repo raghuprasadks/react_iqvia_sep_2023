@@ -1,0 +1,153 @@
+Agenda:
+
+1. AJAX call
+fetchapi
+axios
+2. Working on signup and login modules
+
+Full stack development
+
+Front  + API (database)
+
+MERN
+MEAN
+
+JSON
+
+AJAX - Asynchronous java script and xml
+
+XMLHttpRequest object
+post
+get 
+put
+delete
+
+Synchronous in nature
+single thread
+Request - Response
+
+asynchronous
+promise
+async await
+
+Hotel
+place order
+
+one person taking the order
+chef - infront
+
+
+API 
+
+freely available api
+
+jsonplaceholder
+
+
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+      .then(response => response.json())
+      .then(json => console.log(json))
+
+fetch(url)
+.then()
+.then()
+.catch()
+
+React app
+
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
+
+
+https://jsonplaceholder.typicode.com/users
+
+{
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+
+
+
+Name Email City Company name Phone
+
+custom hooks
+
+use
+
+users
+crud
+https://codesandbox.io/s/react-crud-jsonplaceholder-ey0w4?file=/src/components/User.js
+
+useEffect(fn)
+
+every render
+
+useEffect(fn,[])
+
+this would be called only once during
+component loading
+
+useEffect(fn,[user])
+
+https://upmostly.com/tutorials/why-is-my-useeffect-hook-running-twice-in-react
+
+
+Basics of reacts
+Components - function,class based
+jsx
+
+hooks-useState,useRef,useEffect,useContext
+custom hook
+Routing
+css
+form
+validation
+
+prop
+one way communication
+
+child can call the parent method
+
+fetchapi - back end call
+crud
+
+redux - state management
+advanced routing
+
+back end server - json-server
+backend api
+
+
+
+
+
+
+
+
+
+
+
+
+
+

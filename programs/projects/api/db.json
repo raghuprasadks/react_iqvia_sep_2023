@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "name": "test user 2",
+      "email": "testuser2@gmail.com",
+      "mobile": 9845547472,
+      "password": "test@123",
+      "id": 2,
+      "role":"user"
+    },
+    {
+      "user": {
+        "name": "raghu",
+        "email": "raghu@gmail.com",
+        "password": "test"
+      },
+      "id": 3
+    },
+    {
+      "name": "r",
+      "email": "r@g.com",
+      "password": "test",
+      "id": 4
+    },
+    {
+      "name": "testusr",
+      "email": "testusr@gmail.com",
+      "password": "test",
+      "id": 5
+    },
+    {
+      "name": "admin user",
+      "email": "admin1@gmail.com",
+      "mobile": 9845547472,
+      "password": "test@123",
+      "id": 2,
+      "role":"admin"
+    }
+  ],
+  "course": [
+    {
+        "id":1,
+        "name":"Crash Course on React",
+        "desc":"Learn React in 60 min",
+        "introurl":"D31GRw3uzuw0I_nm",
+        "instructor":"XYZ",
+        "price":2000,
+        "rating":4.4
+    },
+    {
+        "id":2,
+        "name":"Crash Course on Angular",
+        "desc":"Learn Angular in 60 min",
+        "introurl":"cK9xWwO0XeLJiIXi",
+        "instructor":"XYZ",
+        "price":3000,
+        "rating":4.2
+    }
+
+  ],
+
+  "instructor": [
+    {
+        "id":1,
+        "name":"Crash Course on React",
+        "experience":"Learn React in 60 min",
+        "expertise":"D31GRw3uzuw0I_nm",
+        "linkedinprofile":"XYZ",
+        "youtube":2000,
+        "active":4.4
+    }
+  ]
+}
