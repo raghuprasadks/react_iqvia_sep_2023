@@ -2,5 +2,57 @@ Agenda:
 
 1. Assignment review - done
 2. Context - elearningdemo
-3. redux
+
+3. redux - state management
+
+Store - passbook
+
+action
+
+reducer
+
+state
+Initital State
+
+Banking application
+
+account - 0 balance
+balance
+
+deposit() - action 
+tranfer() - action
+withdraw() - action
+
+
+implementation
+
+reducers
+deposit
+balance = currentbal+amt to deposit
+
+withdraw
+balance = currentbal-amt to withdraw
+
+check balance
+
+store - balance - one place of truth
+
+redux
+
+create reduxdemo folder
+
+cd reduxdemo
+npm init
+npm i redux
+
+https://www.geeksforgeeks.org/what-is-the-use-of-middleware-redux-thunk/
+
+
+
+
+
+
 4. react-redux
+https://www.frontendmag.com/tutorials/usereducer-vs-redux/#:~:text=They%20both%20allow%20for%20complex,lower%20than%20that%20of%20Redux.
+
+https://www.geeksforgeeks.org/difference-between-fetch-and-axios-js-for-making-http-requests/

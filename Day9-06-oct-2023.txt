@@ -1,0 +1,43 @@
+Agenda:
+
+1. elearning
+
+2. Redux in detail
+
+https://redux.js.org/
+
+react with redux
+
+state management
+SPA - Single Page Application
+
+store
+
+action - dispatch
+
+reducer - receive these actions
+create a new state by copying and modifying the existing state
+immutable
+
+reduxtool kit
+
+redux with react
+
+npx create-react-app <reactreduxtoolkit>
+
+npm i @reduxjs/toolkit
+npm i react-redux
+
+hooks - react
+useSelector
+useDispatch
+
+
+
+
+React
+1.Redux with hooks https://github.com/dmalvia/React_Redux_Tutorial
+
+D:\kaushalya\consultancy\iqvia\2023\september\projects\React_Redux_Tutorial
+https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+react-scripts --openssl-legacy-provider start
